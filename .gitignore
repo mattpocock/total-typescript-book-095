@@ -1,0 +1,8 @@
+node_modules
+.vscode/*.code-snippets
+tsconfig.temp.json
+*.prompt.*
+dist
+*.tsbuildinfo
+.twoslash-lint
+out
